@@ -45,7 +45,7 @@ const SignInForm = () => {
     <Card className='mx-auto w-[500px]'>
       <CardHeader>
         <h2 className='text-center text-2xl'>Sign In</h2>
-        <p>Use email: 'demo@afzal.com' and password: 'afzal@123'</p>
+        <p className='text-center text-muted-foreground'>Use email: 'demo@afzal.com' and password: 'afzal@123'</p>
         <p className='text-center text-muted-foreground'>
           Sign in using your email and password
         </p>
